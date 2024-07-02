@@ -7,7 +7,7 @@ public class CharacterDemo {
 		char ch = 65;
 		System.out.println(c1);
 		System.out.println(ch);
-		
+		system.out.println(yogi);
 		
 
 	}
